@@ -16,7 +16,7 @@
 .single-blog-details .content ul li p i,
 .side-menu-wrapper .menu-toogle-icon i
 {
-    color: #4285f4!important;
+    color: #72B626!important;
 }
 .resume-wrapper .resume-box .education-list .single-education .year,
 .resume-wrapper .resume-box .education-list .single-education::before,
@@ -25,20 +25,20 @@
 .idgallery .slidPrv4.slick-arrow,
 .idgallery .slidNext4.slick-arrow
 {
-    background: #4285f4;
+    background: #72B626;
 }
 .progress-bar,
 .resume-wrapper .resume-box .skill-list .single-skill .progress .progress-bar,
 .resume-wrapper .resume-box .skill-list2 .single-skill2 .circle-progress .right,
 .resume-wrapper .resume-box .skill-list2 .single-skill2 .circle-progress .rotate
 {
-    background-color: #4285f4!important;
+    background-color: #72B626!important;
 }
 .resume-wrapper .resume-box .education-list .single-education .year::after {
-    border-top: 10px solid #4285f4;
+    border-top: 10px solid #72B626;
 }
 .resume-wrapper .resume-box .education-list .single-education {
-    border-left: 3px solid #4285f4;
+    border-left: 3px solid #72B626;
 }
 .single-review .stars i{
     color: #ffcc00!important;

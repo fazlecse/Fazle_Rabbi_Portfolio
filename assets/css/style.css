@@ -264,8 +264,8 @@ select:focus {
 }
 
 .mybtn-bg {
-  background: #7280ff;
-  border-color: #7280ff;
+  background: #72B626;
+  border-color: #72B626;
   color: #fff;
 }
 
@@ -274,7 +274,7 @@ select:focus {
 }
 
 .mybtn-bg:hover span {
-  color: #7280ff;
+  color: #72B626;
 }
 
 .mybtn-light {
@@ -337,7 +337,7 @@ select:focus {
   display: none;
 }
 .section-heading .title .color {
-  color: #7280ff;
+  color: #72B626;
 }
 .section-heading .title .bg-text {
   position: absolute;
@@ -510,7 +510,7 @@ select:focus {
   text-align: center;
   border-radius: 50%;
   color: #fff;
-  background: #7280ff;
+  background: #72B626;
   cursor: pointer;
   transform: rotate(-90deg);
   bottom: 30px;
@@ -692,7 +692,7 @@ select:focus {
   transform: rotate(58deg);
   top: -135%;
   left: -80%;
-  background: #7280ff;
+  background: #72B626;
   z-index: -1;
 }
 .side-menu .heading-area::before {
@@ -703,14 +703,14 @@ select:focus {
   transform: rotate(-58deg);
   top: -135%;
   right: -80%;
-  background: #7280ff;
+  background: #72B626;
   z-index: -1;
 }
 .side-menu .heading-area img {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  border: 5px solid #7280ff;
+  border: 5px solid #72B626;
   box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.075);
 }
 .side-menu .heading-area .name {
@@ -745,7 +745,7 @@ select:focus {
   color: #7280ff;
 }
 .side-menu #mainmenu-area li.current a, .side-menu #mainmenu-area li:hover a {
-  color: #7280ff;
+  color: #72B626;
 }
 .side-menu .copyright-text {
   position: absolute;
@@ -797,7 +797,7 @@ select:focus {
   border-radius: 50%;
   object-fit: cover;
   display: inline-block;
-  border: 5px solid #7280ff;
+  border: 5px solid #72B626;
   margin-bottom: 30px;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
 }
@@ -913,7 +913,7 @@ select:focus {
   height: 300%;
   left: -70%;
   top: -100%;
-  background: #7280ff;
+  background: #72B626;
   transform: rotate(45deg);
 }
 .about-section .about .about-image img {
@@ -1286,10 +1286,10 @@ select:focus {
   transition: all 0.3s ease-in;
   color: #555;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
-  border: 1px solid #7280ff;
+  border: 1px solid #72B626;
 }
 .project-gallery .project-gallery-filter .project-gallery-menu .filter.active, .project-gallery .project-gallery-filter .project-gallery-menu .filter:hover {
-  background: #7280ff;
+  background: #72B626;
   color: #fff;
 }
 .project-gallery .project-gallery-item {
@@ -1473,7 +1473,7 @@ select:focus {
   transition: all 0.3s ease-in;
   position: relative;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
-  background: #7280ff;
+  background: #72B626;
 }
 .pricing2 .price-box .price-rate i {
   position: absolute;
@@ -1671,7 +1671,7 @@ textarea.form-control {
   margin-bottom: 22px;
   font-weight: normal;
   box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1);
-  background: #7280ff;
+  background: #72B626;
 }
 .single-info .info-icon i {
   color: #fff;
